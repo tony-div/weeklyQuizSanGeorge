@@ -1,0 +1,15 @@
+#container{
+    border: 2px solid black;
+    padding: auto;
+    text-align: center;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    position: sticky;
+    top: 5px;
+}
+body{
+    font-family: 'Courier New', monospace;
+    font-size: 28px;
+}
